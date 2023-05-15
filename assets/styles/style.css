@@ -1,0 +1,11 @@
+table, 
+td {
+    border: 1px solid black;
+  }
+
+  thead,
+
+  tfoot{
+    background-color: rgb(0, 0, 0);
+    color:aliceblue;
+  }
